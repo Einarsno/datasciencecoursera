@@ -1,1 +1,1 @@
-##This is an MD file
+##This is a markdown file
